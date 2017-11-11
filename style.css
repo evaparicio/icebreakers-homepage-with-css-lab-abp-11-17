@@ -49,3 +49,10 @@ h3#header{
 main{
   margin-top: 20px;
 }
+
+div.jumbotrom{
+  border-radius: 5px;
+  background-color: #e9ecef;
+  padding: 10px;
+  text-align: center;
+}
