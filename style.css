@@ -25,7 +25,7 @@ nav ul li{
   margin: 0 10px 0 0;
 }
 
-nav a{
+nav ul li a{
   color: #007bff;
   font-size: 18px;
 }
